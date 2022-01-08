@@ -32,8 +32,6 @@ The code is well arranged into sub-directories which are -
 
 # How to Run
 
-<img src="assets/Icons/10.png" width="5000" height="400">
-
 1. Make sure VS Code is installed in your system.
 2. Fork this repository.
 3. Clone the forked repository:
