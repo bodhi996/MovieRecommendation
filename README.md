@@ -27,30 +27,25 @@ Our application boasts of several features:
 
        
 The code is well arranged into sub-directories which are -
-1. The first page is the ```home``` page. 
-2. The second page is the ```product``` catalog page. 
-3. The thrid page is the ```Cart/Basket``` page. 
-4. The fourth is the ```Connect With``` page that redirects to the Linkedin of the person in concern. 
-5. Finally, the fourth page is the ```payment``` gateway.
+1. The first page is the ```Frontend``` which comes up once you run the code.
+2. The second page is the ```Recommendation``` the algorithm makes for a given movie. 
 
 # How to Run
 
 <img src="assets/Icons/10.png" width="5000" height="400">
 
-1. Make sure Flutter is installed in your system.
+1. Make sure VS Code is installed in your system.
 2. Fork this repository.
 3. Clone the forked repository:
 ~~~
-git clone https://github.com/<your github username>/student_store
+git clone https://github.com/<your github username>/EEESoc
 ~~~
 4. Add a remote to the upstream repository:
 ~~~
 # typing the command below should show you only 1 remote named origin with the URL of your forked repository
 git remote -v
 # adding a remote for the upstream repository
-git remote add upstream https://github.com/bodhi996/IEEE_Comp.github
+git remote add upstream https://github.com/bodhi996/EEESoc.github
 ~~~
-5. Open the repository in Android Studio.
-6. Crate an emulator in AVD manager. 
-7. Run the application.
-8. Create a new issue if you face any difficulties (after browsing through StackOverflow on your own) and someone will help you 😁
+5. Run the application.
+6. Create a new issue if you face any difficulties (after browsing through StackOverflow on your own) and someone will help you 😁
